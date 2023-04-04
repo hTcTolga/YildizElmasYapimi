@@ -1,0 +1,2 @@
+# YildizElmasYapimi
+ www.patika.dev
